@@ -1,2 +1,2 @@
 # Artificial-intelligence-specialist
-course from Innopolis
+project for article
